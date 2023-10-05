@@ -11,4 +11,4 @@ Hi!
 """
 
 def hi():
-  return 'H !'
+  return 'Hi'
